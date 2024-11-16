@@ -1,4 +1,4 @@
-FROM ubuntu:14.04
+FROM ubuntu:trusty-20190425
 MAINTAINER Manfred Touron "m@42.am"
 
 ENV DEBIAN_FRONTEND noninteractive
